@@ -1,4 +1,4 @@
-# 王志闯 | Wilton
+# 王志闯 | Max
 
 资深前端工程师，目前在 Coupert 开发 Safari iOS Web Extension。长期关注浏览器插件的可靠性、复杂 Web 应用和数据可视化。
 
